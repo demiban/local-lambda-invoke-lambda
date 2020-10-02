@@ -1,0 +1,13 @@
+{
+  "name": "local-lambda-invoke-lambda",
+  "version": "1.0.0",
+  "main": "service-1",
+  "repository": "https://github.com/demiban/local-lambda-invoke-lambda",
+  "author": "Demiban Diaz",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {},
+  "devDependencies": {
+    "aws-sdk": "^2.555.0"
+  }
+}
