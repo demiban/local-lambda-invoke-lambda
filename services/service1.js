@@ -1,6 +1,6 @@
 const AWS = require("aws-sdk");
 
-AWS.config.region = "eu-east-1";
+AWS.config.region = "us-east-1";
 const endpoint = new AWS.Endpoint("http://host.docker.internal:3001");
 const lambda = new AWS.Lambda({ endpoint });
 
